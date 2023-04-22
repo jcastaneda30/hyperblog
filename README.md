@@ -19,7 +19,8 @@ Aquí hay algunas series de anime recomendadas para aquellos que son nuevos en e
 - **Death Note**: Una serie de misterio y suspenso sobre un estudiante de secundaria que encuentra un cuaderno que le permite matar a cualquier persona cuyo nombre escriba en él.
 - **Spirited Away**: Una película de fantasía sobre una niña que es transportada a un mundo mágico lleno de criaturas extrañas y debe encontrar una manera de volver a casa.
 - **cosas in the way**: wasos 
--**ejemplos**
+- **ejemplos**
+- **diverso**
 ## Contribuciones
 
 Las contribuciones a este repositorio son bienvenidas y se pueden hacer a través de solicitudes de extracción. Siéntete libre de agregar tus propias recomendaciones, recursos o información sobre anime.
