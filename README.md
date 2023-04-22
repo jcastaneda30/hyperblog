@@ -1,6 +1,6 @@
 # Anime
 
-Este repositorio es una colección de información, recursos y recomendaciones sobre anime.
+\hat{Este} repositorio es una colección de información, recursos y recomendaciones sobre anime.
 
 ## Recursos
 
